@@ -74,6 +74,7 @@ li.active {
 }
 
 .new {
+	background-color: #15D642;
     margin: 0 auto;
     width: 170px;
     height: 36px;
